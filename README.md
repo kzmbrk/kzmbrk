@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kazım Barik</h1>
+
 <h3 align="center">I'm a senior student with a focus on Spring Boot. I have basic experience in developing, and deploying web applications. I am proficient in programming languages and software development methodologies. I possess strong problem-solving skills and can effectively work in a team-based environment. I'm open to learning and innovation.</h3>
 
 - 📫 How to reach me **kazim.barik06@hotmail.com**
